@@ -1,0 +1,25 @@
+h1
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf8WRWObuaaJAK9u8V_Q6bl0_GmyYixYjVg&usqp=CAU');
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    border: 2px dashed lightgreen;
+    height: 300px;
+    width: 500px;
+}
+
+#second-para
+{
+    color:white;
+    background-color: red;
+    text-align: center;
+    text-decoration: underline overline line-through;
+    text-transform: lowercase;
+    line-height: 40px;
+    letter-spacing: 5px;
+}
+.first-class
+{
+    color: green;
+}
