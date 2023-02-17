@@ -1,0 +1,20 @@
+h1
+{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlf8WRWObuaaJAK9u8V_Q6bl0_GmyYixYjVg&usqp=CAU');
+    background-size: 50% 50%;
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    border: 2px dashed lightgreen;
+    height: 300px;
+    width: 500px;
+}
+
+#second-para
+{
+    color:blue;
+    background-color: red;
+}
+.first-class
+{
+    color: green;
+}
